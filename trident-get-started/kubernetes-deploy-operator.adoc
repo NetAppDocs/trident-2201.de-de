@@ -88,7 +88,7 @@ Führen Sie die aufgeführten Schritte aus, um den Trident-Operator manuell zu i
 
 === Schritt: Qualifizieren Sie Ihren Kubernetes-Cluster
 
-Zunächst müssen Sie sich beim Linux-Host anmelden und überprüfen, ob es ein _Working_, link:requirements.html["Unterstützter Kubernetes-Cluster"^] Dass Sie über die erforderlichen Berechtigungen verfügen.
+Zunächst müssen Sie sich beim Linux-Host anmelden und überprüfen, ob es ein _Working_, link:../trident-get-started/requirements.html["Unterstützter Kubernetes-Cluster"^] Dass Sie über die erforderlichen Berechtigungen verfügen.
 
 
 NOTE: Mit OpenShift, verwenden `oc` Statt `kubectl` In allen folgenden Beispielen, und melden Sie sich als *System:admin* zuerst mit dem Ausführen an `oc login -u system:admin` Oder `oc login -u kube-admin`.
