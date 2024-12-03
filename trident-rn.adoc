@@ -20,10 +20,7 @@ WARNING: Der `tridentctl` Binary for Linux, die in der ZIP-Datei des Installatio
 
 == Neuerungen in 22.01.1
 
-NetApp verbessert seine Produkte und Services kontinuierlich. Im Folgenden finden Sie einige der neuesten Funktionen von Astra Trident: Frühere Versionen finden Sie unter https://docs.netapp.com/us-en/trident/earlier-versions.html["Frühere Versionen der Dokumentation"].
-
-
-IMPORTANT: Wenn Sie ein Upgrade von früheren Trident Versionen durchführen und Azure NetApp Files verwenden, finden Sie das ``location`` Der Parameter config ist jetzt ein Pflichtfeld, singleton.
+NetApp verbessert seine Produkte und Services kontinuierlich. Im Folgenden finden Sie einige der neuesten Funktionen von Astra Trident:
 
 
 
